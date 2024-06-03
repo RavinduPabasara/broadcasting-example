@@ -1,5 +1,3 @@
-Certainly! Below is the full markdown code for the README file:
-
 ```markdown
 # NumPy Broadcasting Example
 
