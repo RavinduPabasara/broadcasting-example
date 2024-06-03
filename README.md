@@ -1,4 +1,3 @@
-```markdown
 # NumPy Broadcasting Example
 
 ## Overview
